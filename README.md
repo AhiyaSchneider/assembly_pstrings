@@ -25,4 +25,4 @@ The program will execute the chosen operation and provide the output.
 Please note that all functions in this implementation are written in assembly language.
 
 Feel free to explore and use this assembly implementation of the pstring structure and associated functions in your Linux environment.
-If you have any questions or suggestions, please let us know.
+
